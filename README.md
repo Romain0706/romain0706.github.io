@@ -40,3 +40,16 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+
+## Deploy to Github Pages
+
+Build the application for production:
+
+```bash
+npm run build
+```
+
+Deploy:
+
+```bash
+npm run deploy
